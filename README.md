@@ -1,5 +1,7 @@
 # Speaking-Templates
 
+[Introduction to Time Series](https://docs.google.com/presentation/d/e/2PACX-1vQuS-9wV7s-ZQfKV8ZtPznnAXQj0-IjGMoNha1Yfi-tiHCYCGPcfKZLlDqlKuTzHLSexthEf0-HKUH0/pub?start=false&loop=false&delayms=3000)
+
 [Introduction to InfluxDB and Telegraf](https://docs.google.com/presentation/d/e/2PACX-1vT2mSOfne5Ib9gR2fHtmBGe7P-elV2gsOWdDDVe0kuKaRX8aDVkoYIs-jUCzxTYZd8bCzRrcsZDo1F7/pub?start=false&loop=false&delayms=3000)
 
 [Introduction to Kapacitor](https://docs.google.com/presentation/d/e/2PACX-1vTgmG9-PdqKf7YfrNlUv7_vxvQ9bWmtgXDjfE5H6cBfVaiu9Hlh2nWHavKuydBqSFy2OT6ut76fkmkO/pub?start=false&loop=false&delayms=3000)
